@@ -1,0 +1,691 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-07-13T16:20:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475624230",
+        "leisure": "fitness_centre",
+        "name": "Club Proform Brossard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4663929,
+          45.4514476
+        ]
+      },
+      "id": "node/475624230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1966795939",
+        "addr:housenumber": "3645",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "leisure": "fitness_centre",
+        "name": "Hard Knox",
+        "website": "http://www.hardknoxgym.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.581409,
+          45.4795256
+        ]
+      },
+      "id": "node/1966795939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2484170016",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3841",
+        "addr:street": "Rue Wellington",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Ėnergie Cardio",
+        "opening_hours": "Mo-Fr 05:00-22:45; Sa 08:00-18:00; Su 08:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5669527,
+          45.4653653
+        ]
+      },
+      "id": "node/2484170016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519427846",
+        "leisure": "fitness_centre",
+        "name": "Energie Cardio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5848339,
+          45.4902381
+        ]
+      },
+      "id": "node/2519427846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3081643810",
+        "leisure": "fitness_centre",
+        "name": "Nautilus Plus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5583295,
+          45.5165239
+        ]
+      },
+      "id": "node/3081643810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3584657116",
+        "leisure": "fitness_centre",
+        "name": "Éconofitness LaSalle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6088374,
+          45.4272054
+        ]
+      },
+      "id": "node/3584657116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4207141290",
+        "addr:housenumber": "7475",
+        "addr:postcode": "H8N 1X3",
+        "addr:street": "Boulevard Newman",
+        "email": "nautilus@nautilusplus.com",
+        "leisure": "fitness_centre",
+        "name": "Nautilus Plus",
+        "phone": "+1 514 366-0711",
+        "website": "http://nautilusplus.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6213781,
+          45.4406229
+        ]
+      },
+      "id": "node/4207141290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4362975555",
+        "addr:city": "Montreal",
+        "addr:housenumber": "8108",
+        "addr:postcode": "H2P 2G6",
+        "addr:street": "St-Denis",
+        "leisure": "fitness_centre",
+        "name": "Idolem Yoga Chaud",
+        "sport": "yoga",
+        "website": "http://www.idolem.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6295684,
+          45.5425489
+        ]
+      },
+      "id": "node/4362975555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492764642",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2234",
+        "addr:postcode": "H2H 1K4",
+        "addr:province": "Québec",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "leisure": "fitness_centre",
+        "name": "Atma Yoga",
+        "sport": "yoga",
+        "website": "http://atmayogamontreal.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5706981,
+          45.5368026
+        ]
+      },
+      "id": "node/4492764642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852361692",
+        "leisure": "fitness_centre",
+        "name": "Salle d'entraînement de l'Association sportive et communautaire du Centre-Sud",
+        "opening_hours": "Mo-Fr 06:00-21:00, Sa-Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.562849,
+          45.522859
+        ]
+      },
+      "id": "node/4852361692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937501754",
+        "addr:city": "Montréal",
+        "addr:housenumber": "306",
+        "addr:postcode": "H2R 1G7",
+        "addr:province": "QC",
+        "addr:street": "Rue Villeray",
+        "leisure": "fitness_centre",
+        "name": "Soham yoga",
+        "sport": "yoga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6233879,
+          45.5396355
+        ]
+      },
+      "id": "node/4937501754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5025407521",
+        "addr:housenumber": "304",
+        "addr:street": "Rue Faillon Est",
+        "leisure": "fitness_centre",
+        "name": "Yoga Bhavana",
+        "name:en": "Yoga Bhavana",
+        "name:fr": "Yoga Bhavana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6208785,
+          45.5388333
+        ]
+      },
+      "id": "node/5025407521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111342312",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3450",
+        "addr:province": "QC",
+        "addr:street": "Rue Ontario Est",
+        "leisure": "fitness_centre",
+        "name": "Econofitness",
+        "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5455056,
+          45.5436588
+        ]
+      },
+      "id": "node/5111342312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5170406355",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4688815,
+          45.4684611
+        ]
+      },
+      "id": "node/5170406355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5170606431",
+        "leisure": "fitness_centre",
+        "name": "Econofitness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4663856,
+          45.4810593
+        ]
+      },
+      "id": "node/5170606431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5174116797",
+        "leisure": "fitness_centre",
+        "name": "Buzzfit",
+        "sport": "gym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4724152,
+          45.4369829
+        ]
+      },
+      "id": "node/5174116797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175613154",
+        "leisure": "fitness_centre",
+        "name": "Econofitness",
+        "sport": "gym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4894043,
+          45.4173662
+        ]
+      },
+      "id": "node/5175613154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478306221",
+        "leisure": "fitness_centre",
+        "name": "Locomotion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5634913,
+          45.5431479
+        ]
+      },
+      "id": "node/5478306221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485585332",
+        "addr:city": "Montréal",
+        "addr:housenumber": "372",
+        "addr:postcode": "H2P 1E5",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Crémazie Est",
+        "leisure": "fitness_centre",
+        "name": "Yoga Shak",
+        "phone": "+1 514-383-0016",
+        "sport": "yoga",
+        "website": "https://yogashakmontreal.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6386982,
+          45.5449316
+        ]
+      },
+      "id": "node/5485585332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518901369",
+        "leisure": "fitness_centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4427697,
+          45.5113126
+        ]
+      },
+      "id": "node/5518901369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536207077",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6000",
+        "addr:postcode": "H4A 1G8",
+        "addr:street": "Avenue de Monkland",
+        "alt_name": "Element",
+        "leisure": "fitness_centre",
+        "name": "Elmnt",
+        "phone": "+1 514 484 9642",
+        "source": "survey",
+        "sport": "yoga",
+        "website": "http://www.elmnt.studio/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6265933,
+          45.4711739
+        ]
+      },
+      "id": "node/5536207077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536326983",
+        "addr:housenumber": "4260",
+        "addr:street": "Avenue Girouard",
+        "addr:unit": "Suite 300",
+        "leisure": "fitness_centre",
+        "phone": "+1 514 544 9642",
+        "sport": "yoga",
+        "website": "https://ndg.mokshayoga.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6214434,
+          45.4766311
+        ]
+      },
+      "id": "node/5536326983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5585555389",
+        "addr:housenumber": "5959",
+        "addr:street": "Rue Verdun",
+        "description": "Gym et club de boxe.",
+        "leisure": "fitness_centre",
+        "name": "Gym Expert",
+        "phone": "514 768-7495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572779,
+          45.4482453
+        ]
+      },
+      "id": "node/5585555389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586839965",
+        "addr:housenumber": "5571",
+        "addr:street": "Rue Verdun",
+        "description": "Personal training.",
+        "leisure": "fitness_centre",
+        "name": "aktion réaktion",
+        "phone": "514 274-9232",
+        "website": "www.aktionreaktion.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5724879,
+          45.451752
+        ]
+      },
+      "id": "node/5586839965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586844190",
+        "addr:housenumber": "5200",
+        "addr:street": "Rue Verdun",
+        "leisure": "fitness_centre",
+        "name": "Kinesis Santé",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-17:00; Sa 09:00-12:00",
+        "phone": "514 638-2392"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5719542,
+          45.4545748
+        ]
+      },
+      "id": "node/5586844190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586846433",
+        "addr:housenumber": "5139",
+        "addr:street": "Rue Verdun",
+        "leisure": "fitness_centre",
+        "name": "Angry Monkey MMA",
+        "opening_hours": "Mo, We, Fr 10:30-21:00; Tu, Th 10:30-21:30; Sa 10:00-14:30",
+        "phone": "514 543-6107",
+        "website": "angrymonkeymma.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5721072,
+          45.4551313
+        ]
+      },
+      "id": "node/5586846433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641048769",
+        "addr:city": "Saint-Léonard",
+        "addr:housenumber": "6036",
+        "addr:postcode": "H1S 1A9",
+        "addr:province": "QC",
+        "addr:street": "Boul Métropolitain E",
+        "leisure": "fitness_centre",
+        "name": "Beyond Physical Training",
+        "opening_hours": "Mo, We 06:00-21:30; Tu, Fr 05:45-21:45; Th 08:00-20:30; Sa 08:00-13:00; Su 09:00-12:30",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-514-255-2555",
+        "website": "https://beyond-physical.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5812348,
+          45.5886917
+        ]
+      },
+      "id": "node/5641048769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5720825165",
+        "addr:housenumber": "1688",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Gym du Plateau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5747044,
+          45.5325608
+        ]
+      },
+      "id": "node/5720825165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5756962188",
+        "addr:housenumber": "2175",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Econofitness",
+        "opening_hours": "Mo-Fr 06:00-23:00;Sa-Su 08:00-20:00",
+        "website": "https://econofitness.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5716868,
+          45.5362108
+        ]
+      },
+      "id": "node/5756962188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5832823072",
+        "addr:housenumber": "1565",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "leisure": "fitness_centre",
+        "level": "1",
+        "name": "Studio Équilibre",
+        "opening_hours": "Mo-Th 11:00-19:00,Fr 11:00-18:00;Sa 10:00-12:30",
+        "phone": "+1 514 745 2837",
+        "website": "http://equilibrestudio.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5758075,
+          45.5318681
+        ]
+      },
+      "id": "node/5832823072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6015981692",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6334A",
+        "addr:postcode": "H2S 2M2",
+        "addr:province": "Québec",
+        "addr:street": "Rue Saint-Hubert",
+        "description": "Classes de yoga, pilates et essentrics",
+        "email": "info@mouvementhumain.com",
+        "leisure": "fitness_centre",
+        "name": "Mouvement Humain Yoga Pilates",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 09:00-18:00",
+        "phone": "+1-438-382-3008",
+        "sport": "yoga;pilates;essentrics",
+        "website": "https://mouvementhumain.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.601953,
+          45.5355485
+        ]
+      },
+      "id": "node/6015981692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6016008135",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2710",
+        "addr:postcode": "H1Y 1W5",
+        "addr:province": "QC",
+        "addr:street": "Rue Masson",
+        "addr:unit": "206",
+        "description": "Cours de Yoga, Pilates et Essentrics",
+        "email": "info@mouvementhumain.com",
+        "leisure": "fitness_centre",
+        "name": "Mouvement Humain Yoga Pilates",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa-Su 09:00-18:00",
+        "phone": "+1-514-379-3139",
+        "sport": "yoga;pilates;essentrics",
+        "website": "https://mouvementhumain.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5756357,
+          45.5466687
+        ]
+      },
+      "id": "node/6016008135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6251536794",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2305",
+        "addr:postcode": "H3P 3E9",
+        "addr:street": "Chemin Rockland",
+        "leisure": "fitness_centre",
+        "level": "-1",
+        "name": "Nautilus Plus Centre Rockland",
+        "phone": "+1-514-341-1553",
+        "sport": "fitness",
+        "website": "https://www.nautilusplus.com/fr/succursale/centre-rockland/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.647292,
+          45.5280989
+        ]
+      },
+      "id": "node/6251536794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6348008379",
+        "leisure": "fitness_centre",
+        "name": "Tomlinson Field House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5795622,
+          45.5107936
+        ]
+      },
+      "id": "node/6348008379"
+    }
+  ]
+}

@@ -1,0 +1,2401 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-07-13T16:15:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/221063335",
+        "created_by": "JOSM",
+        "name": "Provigo",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5717973,
+          45.5088138
+        ]
+      },
+      "id": "node/221063335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/237578368",
+        "created_by": "JOSM",
+        "name": "PA Supermarché",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5822282,
+          45.4921643
+        ]
+      },
+      "id": "node/237578368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/237578374",
+        "addr:housenumber": "5029",
+        "addr:street": "Avenue du Parc",
+        "name": "PA Nature Supermarché",
+        "shop": "supermarket",
+        "website": "https://www.supermarchepa.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5949512,
+          45.5194394
+        ]
+      },
+      "id": "node/237578374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312392821",
+        "name": "IGA",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5145721,
+          45.5024347
+        ]
+      },
+      "id": "node/312392821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/424780619",
+        "name": "IGA Louise-Ménard",
+        "operator": "IGA",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5633125,
+          45.5078487
+        ]
+      },
+      "id": "node/424780619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/456028196",
+        "name": "Metro Bellemare",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568298,
+          45.4630175
+        ]
+      },
+      "id": "node/456028196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/456028209",
+        "name": "Fruiterie Soleil",
+        "opening_hours": "Mo-Fr 08:00-20:00, Sa,Su 09:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5693348,
+          45.4630453
+        ]
+      },
+      "id": "node/456028209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/458918547",
+        "name": "Maché Brito",
+        "operator": "Extra",
+        "shop": "supermarket",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5720456,
+          45.5146472
+        ]
+      },
+      "id": "node/458918547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471064844",
+        "name": "Marché 4 frères",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5743777,
+          45.5148061
+        ]
+      },
+      "id": "node/471064844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477053618",
+        "name": "Métro",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6147435,
+          45.4767393
+        ]
+      },
+      "id": "node/477053618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/484682907",
+        "name": "Marché Murugan",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5929591,
+          45.5550619
+        ]
+      },
+      "id": "node/484682907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/647091295",
+        "name": "Métro épicier - Ville Mont-Royal",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6243723,
+          45.5202602
+        ]
+      },
+      "id": "node/647091295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648756291",
+        "name": "IGA",
+        "operator": "Sobeys",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.514351,
+          45.5288551
+        ]
+      },
+      "id": "node/648756291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/648756292",
+        "name": "Metro Plus",
+        "shop": "supermarket",
+        "source": "local_knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.513659,
+          45.5360889
+        ]
+      },
+      "id": "node/648756292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/670907642",
+        "name": "IGA St-Zotique",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6055758,
+          45.5383468
+        ]
+      },
+      "id": "node/670907642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775041465",
+        "access": "yes",
+        "name": "Métro",
+        "note": "Ouvert à nouveau",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6039822,
+          45.5454539
+        ]
+      },
+      "id": "node/775041465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/775041500",
+        "name": "Esposito",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5955255,
+          45.557586
+        ]
+      },
+      "id": "node/775041500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810790342",
+        "addr:housenumber": "750",
+        "addr:street": "Rue Gilford",
+        "contact:email": "info@3piliers.ca",
+        "contact:phone": "+1-514-563-1204",
+        "contact:website": "http://www.3piliers.ca/",
+        "name": "Marché 3 Piliers",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 09:00-19:00",
+        "organic": "only",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5854381,
+          45.5274369
+        ]
+      },
+      "id": "node/810790342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/810790846",
+        "name": "Fruiterie Muscat",
+        "opening_hours": "Sa-We 08:00-20:00; Th-Fr 08:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5882999,
+          45.5262457
+        ]
+      },
+      "id": "node/810790846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812681589",
+        "addr:housename": "Marché Tradition",
+        "addr:housenumber": "2535",
+        "addr:street": "Rue Jean-Talon Est",
+        "name": "Marché Tradition",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6016391,
+          45.5542247
+        ]
+      },
+      "id": "node/812681589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812681593",
+        "addr:housenumber": "1951",
+        "addr:street": "Rue Jean-Talon Est",
+        "name": "Bino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6060376,
+          45.5492453
+        ]
+      },
+      "id": "node/812681593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812681630",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1263",
+        "addr:postcode": "H2R 1W4",
+        "addr:street": "Rue Jean-Talon Est",
+        "name": "Nuvo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6105886,
+          45.5442705
+        ]
+      },
+      "id": "node/812681630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/812681641",
+        "addr:housenumber": "2005",
+        "addr:street": "Rue Jean-Talon Est",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6054632,
+          45.5498202
+        ]
+      },
+      "id": "node/812681641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867695552",
+        "name": "Métro plus",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.564648,
+          45.551752
+        ]
+      },
+      "id": "node/867695552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926984552",
+        "addr:city": "Montréal",
+        "addr:postcode": "H3Y 1P9",
+        "addr:province": "Quebec",
+        "name": "Metro Avenue du Parc",
+        "operator": "Metro",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5749971,
+          45.510411
+        ]
+      },
+      "id": "node/926984552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1055541329",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2925",
+        "addr:postcode": "H1W 1B2",
+        "addr:province": "Québec",
+        "addr:street": "Rue Sherbrooke Est",
+        "contact:phone": "+1-514-521-0660",
+        "name": "Maxi",
+        "opening_hours": "08:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5592925,
+          45.5409731
+        ]
+      },
+      "id": "node/1055541329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1188379795",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2275",
+        "addr:postcode": "H2H 1K7",
+        "addr:province": "Québec",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "name": "Supermarché Metro Mont-Royal",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5707588,
+          45.5374033
+        ]
+      },
+      "id": "node/1188379795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1299821530",
+        "addr:housenumber": "2600",
+        "addr:postcode": "H2K 4K4",
+        "addr:street": "Ontario E.",
+        "name": "IGA",
+        "shop": "supermarket",
+        "website": "https://www.iga.net/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5510348,
+          45.5337498
+        ]
+      },
+      "id": "node/1299821530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1302752337",
+        "addr:housenumber": "2340",
+        "addr:street": "Boulevard Rosemont",
+        "name": "IGA Panelli",
+        "shop": "supermarket",
+        "website": "http://www.igarosemont.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5873789,
+          45.544956
+        ]
+      },
+      "id": "node/1302752337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1314138588",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1293",
+        "addr:postcode": "H2J 1H2",
+        "addr:province": "QC",
+        "addr:street": "Avenue Laurier Est",
+        "name": "Métro Beaulieu Laurier",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5844346,
+          45.5329444
+        ]
+      },
+      "id": "node/1314138588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1461351519",
+        "name": "Métro",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5909143,
+          45.5300536
+        ]
+      },
+      "id": "node/1461351519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1509946589",
+        "name": "Provigo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5879837,
+          45.4583561
+        ]
+      },
+      "id": "node/1509946589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1537166702",
+        "addr:city": "Montréal",
+        "addr:housenumber": "375",
+        "addr:postcode": "H3N 2Y8",
+        "addr:street": "Jean-Talon Ouest",
+        "name": "Provigo Le Marché",
+        "operator": "Loblaw Companies Limited",
+        "phone": "+1 514 948 2600",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6231708,
+          45.5307257
+        ]
+      },
+      "id": "node/1537166702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1560846619",
+        "addr:housenumber": "147",
+        "addr:postcode": "H3J 2J4",
+        "addr:street": "Avenue Atwater",
+        "name": "Super C",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+1 514 939 3542",
+        "shop": "supermarket",
+        "website": "https://www.superc.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5758134,
+          45.4802264
+        ]
+      },
+      "id": "node/1560846619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1570269323",
+        "name": "Rachelle-Béry",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.58966,
+          45.5214683
+        ]
+      },
+      "id": "node/1570269323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1571409554",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4001",
+        "addr:postcode": "H2W 1V4",
+        "addr:street": "Boulevard Saint-Laurent",
+        "name": "Segal's Market",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa 09:00-19:00",
+        "organic": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-514-845-4716",
+        "shop": "supermarket",
+        "source": "survey",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5788957,
+          45.516865
+        ]
+      },
+      "id": "node/1571409554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1571557007",
+        "addr:city": "Montréal",
+        "addr:housenumber": "355",
+        "addr:postcode": "H3A 1B5",
+        "addr:province": "Quebec",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "name": "Couffin Bio",
+        "organic": "only",
+        "shop": "supermarket",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5715793,
+          45.5083085
+        ]
+      },
+      "id": "node/1571557007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573682005",
+        "name": "Sabor Latino",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5845604,
+          45.519455
+        ]
+      },
+      "id": "node/1573682005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573682008",
+        "addr:housename": "Sakaris",
+        "name": "Sakaris",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5846704,
+          45.5195062
+        ]
+      },
+      "id": "node/1573682008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1581924459",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3185",
+        "addr:postcode": "H1Y 1H5",
+        "addr:street": "Rue Beaubien Est",
+        "brand": "Provigo",
+        "brand:wikidata": "Q3408306",
+        "brand:wikipedia": "en:Provigo",
+        "name": "Provigo",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "operator": "Marc Bougie",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5873034,
+          45.5541285
+        ]
+      },
+      "id": "node/1581924459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621008922",
+        "name": "Provigo",
+        "operator": "Loblaw Companies Limited",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5438781,
+          45.4669425
+        ]
+      },
+      "id": "node/1621008922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743393639",
+        "addr:city": "Montréal",
+        "addr:housenumber": "377",
+        "addr:postcode": "H2T 1G7",
+        "addr:province": "QC",
+        "addr:street": "Avenue Laurier Est",
+        "name": "Marché Laurier",
+        "operator": "Marché Laurier",
+        "shop": "supermarket",
+        "website": "http://www.marchelaurier.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5899054,
+          45.5265773
+        ]
+      },
+      "id": "node/1743393639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743946282",
+        "addr:city": "Montréal",
+        "addr:housenumber": "274",
+        "addr:postcode": "H2S 1L3",
+        "addr:province": "QC",
+        "addr:street": "Rue Saint-Zotique Est",
+        "name": "Marché Royal Plus",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.609505,
+          45.534206
+        ]
+      },
+      "id": "node/1743946282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743953118",
+        "addr:housenumber": "280",
+        "addr:street": "Place du Marché-du-Nord",
+        "name": "Marché des saveurs",
+        "name:fr": "Marché des saveurs du Québec",
+        "opening_hours": "Sa-We 09:00-18:00; Th-Fr 09:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6138708,
+          45.5360889
+        ]
+      },
+      "id": "node/1743953118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751199518",
+        "name": "Supermarche Metro",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6132584,
+          45.5399277
+        ]
+      },
+      "id": "node/1751199518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769555654",
+        "name": "Marché Richelieu",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5699699,
+          45.5216806
+        ]
+      },
+      "id": "node/1769555654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2047449791",
+        "addr:city": "Montréal",
+        "addr:housenumber": "7101",
+        "addr:street": "Rue Saint-Denis",
+        "name": "Marché Oriental",
+        "opening_hours": "Sa-We 9:30-19:00; Th-Fr 9:30-21:00",
+        "phone": "+1-514-271-7878",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6139343,
+          45.5382051
+        ]
+      },
+      "id": "node/2047449791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2079875312",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6116384,
+          45.5243446
+        ]
+      },
+      "id": "node/2079875312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151276112",
+        "brand": "IGA",
+        "brand:wikidata": "Q3146662",
+        "brand:wikipedia": "en:IGA (supermarkets)",
+        "name": "IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6393508,
+          45.4932205
+        ]
+      },
+      "id": "node/2151276112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172009100",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2733",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "name": "Marché Bleuet",
+        "opening_hours": "Mo,Tu 11:00-19:00; We-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-17:00",
+        "organic": "yes",
+        "shop": "supermarket",
+        "website": "http://www.marchebleuet.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5774881,
+          45.481654
+        ]
+      },
+      "id": "node/2172009100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2172009101",
+        "name": "Marché Branche d'Olivier",
+        "organic": "yes",
+        "phone": "+1-514-938-1818",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5795232,
+          45.4804885
+        ]
+      },
+      "id": "node/2172009101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2249495533",
+        "name": "Rachelle-Béry",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6441563,
+          45.5173858
+        ]
+      },
+      "id": "node/2249495533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2305248783",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3245",
+        "addr:postcode": "H1Y 1Y4",
+        "addr:street": "Rue Masson",
+        "name": "Alimentation Poivre & Sel",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5736309,
+          45.5506159
+        ]
+      },
+      "id": "node/2305248783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2332268381",
+        "name": "Provigo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6289693,
+          45.4641779
+        ]
+      },
+      "id": "node/2332268381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2379217346",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6655",
+        "addr:postcode": "H3S 2J6",
+        "addr:province": "Québec",
+        "addr:street": "Avenue de Darlington",
+        "cuisine": "asian",
+        "name": "Marché Harmonie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6299903,
+          45.5096924
+        ]
+      },
+      "id": "node/2379217346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2400999707",
+        "name": "Super C",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.542856,
+          45.5505418
+        ]
+      },
+      "id": "node/2400999707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2413854511",
+        "addr:city": "Montréal",
+        "addr:housename": "Marché Maisonneuve",
+        "addr:housenumber": "4445",
+        "addr:postcode": "H1V 3V3",
+        "addr:street": "Rue Ontario Est",
+        "name": "Aliments Merci",
+        "phone": "+1-514-899-1066",
+        "shop": "supermarket",
+        "website": "https://www.alimentsmerci.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.539505,
+          45.5541507
+        ]
+      },
+      "id": "node/2413854511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2413854512",
+        "addr:city": "Montréal",
+        "addr:housename": "Marché Maisonneuve",
+        "addr:housenumber": "4445",
+        "addr:postcode": "H1V 3V3",
+        "addr:street": "Rue Ontario Est",
+        "name": "Fromagerie Maisonneuve",
+        "phone": "+1-514-251-9516",
+        "shop": "supermarket",
+        "website": "http://www.fromageriemaisonneuve.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5390609,
+          45.5541675
+        ]
+      },
+      "id": "node/2413854512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2419107217",
+        "name": "Tradition",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6004928,
+          45.5386541
+        ]
+      },
+      "id": "node/2419107217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2429689308",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6698",
+        "addr:postcode": "H2S 2G8",
+        "addr:street": "Avenue Christophe-Colomb",
+        "name": "Vrac & bocaux",
+        "name:fr": "Vrac & bocaux",
+        "phone": "+1-514-379-1007",
+        "shop": "supermarket",
+        "source": "NRCan-CanVec-10.0",
+        "website": "https://www.vracetbocaux.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6049183,
+          45.5392182
+        ]
+      },
+      "id": "node/2429689308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2485491090",
+        "addr:city": "Montréal",
+        "addr:street": "Rue Wellington",
+        "name": "IGA",
+        "shop": "supermarket",
+        "source": "local_knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5672387,
+          45.459051
+        ]
+      },
+      "id": "node/2485491090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2493072792",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1230",
+        "addr:province": "QC",
+        "addr:street": "Rue Notre-Dame Ouest",
+        "name": "Métro Plus de la Montagne",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5644377,
+          45.4931116
+        ]
+      },
+      "id": "node/2493072792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2493072795",
+        "name": "Couche-Tard",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5647951,
+          45.4932592
+        ]
+      },
+      "id": "node/2493072795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510830001",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5192",
+        "addr:postcode": "H3T 1X8",
+        "addr:street": "Chemin de la Côte-Des-Neiges",
+        "name": "Exo-Fruits",
+        "operator": "Exo-Fruits",
+        "phone": "+1-514-738-1384",
+        "shop": "supermarket",
+        "url": "http://www.exofruits.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6208628,
+          45.4955118
+        ]
+      },
+      "id": "node/2510830001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513505091",
+        "name": "Shengtang supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5819533,
+          45.4922884
+        ]
+      },
+      "id": "node/2513505091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513505093",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2173",
+        "addr:province": "QC",
+        "addr:street": "Rue Sainte-Catherine Ouest",
+        "name": "Adonis",
+        "phone": "+1-514-933-4747",
+        "shop": "supermarket",
+        "website": "http://groupeadonis.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5836309,
+          45.4903971
+        ]
+      },
+      "id": "node/2513505093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2513513498",
+        "name": "Bonjour supermarché",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5830398,
+          45.4922182
+        ]
+      },
+      "id": "node/2513513498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2518001557",
+        "name": "coreen and Japanese store",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5826203,
+          45.491149
+        ]
+      },
+      "id": "node/2518001557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519396227",
+        "addr:city": "Montreal",
+        "addr:country": "CA",
+        "addr:housenumber": "1500",
+        "addr:province": "ON",
+        "addr:street": "Rue Atwater",
+        "alt_name": "IGA Place Alexis Nihon",
+        "fax": "+1-514-933-4203",
+        "name": "IGA",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa-Su 08:00-22:00",
+        "operator": "Sobeys",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "phone": "+1-514-933-0995",
+        "self_checkout": "yes",
+        "shop": "supermarket",
+        "store_ref": "8253",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.586156,
+          45.489267
+        ]
+      },
+      "id": "node/2519396227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3025122777",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6700",
+        "addr:postcode": "H3S 2B2",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte-Des-Neiges",
+        "name": "Walmart Supercentre",
+        "phone": "+1-514-737-1661",
+        "shop": "supermarket",
+        "website": "https://www.walmart.ca/en/walmart-cote-des-neiges-supercentre/1170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6388153,
+          45.5018021
+        ]
+      },
+      "id": "node/3025122777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3080851031",
+        "addr:housename": "Place Dupuis",
+        "addr:housenumber": "865",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "name": "IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5586136,
+          45.5162299
+        ]
+      },
+      "id": "node/3080851031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144738349",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4238",
+        "addr:postcode": "H2J 2K8",
+        "addr:street": "Rue Saint-Denis",
+        "contact:phone": "+1-514-843-4420",
+        "name": "Tau",
+        "opening_hours": "Mo-We 9:00-19:00;Th-Fr 9:00-21:00;Sa 9:00-18:00;Su 10:00-18:00",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5786445,
+          45.5218199
+        ]
+      },
+      "id": "node/3144738349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144740766",
+        "addr:city": "Montréal",
+        "addr:housenumber": "505",
+        "addr:street": "Rue Rachel Est",
+        "name": "Rachelle-Béry",
+        "opening_hours": "Mo-We 09:00-19:00;Th-Fr 09:00-21:00;Sa 09:00-18:00;Su 10:00-18:00",
+        "operator": "Sobeys",
+        "organic": "yes",
+        "phone": "+1-514-524-0725",
+        "shop": "supermarket",
+        "website": "https://www.rachelle-bery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5773115,
+          45.5229352
+        ]
+      },
+      "id": "node/3144740766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3153219158",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6945",
+        "addr:street": "Avenue Mayfair",
+        "name": "Marche Oasis",
+        "opening_hours": "9am to 9pm",
+        "shop": "supermarket",
+        "website": "www.marcheoasis.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.646036,
+          45.4641846
+        ]
+      },
+      "id": "node/3153219158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3493656462",
+        "name": "Metro",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6026164,
+          45.4789756
+        ]
+      },
+      "id": "node/3493656462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3552225324",
+        "name": "Kim Phat",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6362938,
+          45.5032242
+        ]
+      },
+      "id": "node/3552225324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3567183439",
+        "name": "Esposito",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6164985,
+          45.4706196
+        ]
+      },
+      "id": "node/3567183439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649167896",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5242",
+        "addr:postcode": "H2V 4G9",
+        "addr:province": "Québec",
+        "addr:street": "Avenue du Parc",
+        "name": "Supermarché PA",
+        "phone": "+1 514-273-8782",
+        "shop": "supermarket",
+        "website": "https://www.supermarchepa.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.598495,
+          45.5205258
+        ]
+      },
+      "id": "node/3649167896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649349447",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5600",
+        "addr:postcode": "H2V 4H1",
+        "addr:province": "Québec",
+        "addr:street": "Avenue du Parc",
+        "name": "Intermarché - 4 Frères",
+        "phone": "+1 514-272-5258",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6034869,
+          45.5225473
+        ]
+      },
+      "id": "node/3649349447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649353853",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5573",
+        "addr:postcode": "H2V 4H2",
+        "addr:province": "Québec",
+        "addr:street": "Avenue du Parc",
+        "name": "Épicerie Casher - LIPA",
+        "phone": "+1 514-272-6732",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6026466,
+          45.5225953
+        ]
+      },
+      "id": "node/3649353853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649363634",
+        "addr:city": "Montréal",
+        "addr:housenumber": "185",
+        "addr:postcode": "H2T 2L4",
+        "addr:province": "Québec",
+        "addr:street": "Rue Saint-Viateur Ouest",
+        "name": "Épicerie Latina",
+        "phone": "+1 514-273-6561",
+        "shop": "supermarket",
+        "website": "www.chezlatina.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.601115,
+          45.5236458
+        ]
+      },
+      "id": "node/3649363634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3649852635",
+        "name": "Pharmacie Uniprix",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5747291,
+          45.5101984
+        ]
+      },
+      "id": "node/3649852635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3651278810",
+        "name": "Provigo",
+        "opening_hours": "8:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4930946,
+          45.4894744
+        ]
+      },
+      "id": "node/3651278810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3685734271",
+        "name": "Marché Fu Tai",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.636966,
+          45.5023823
+        ]
+      },
+      "id": "node/3685734271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3780905699",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3623",
+        "addr:postcode": "H1W 1R9",
+        "addr:province": "QC",
+        "addr:street": "Ontario Est",
+        "contact:phone": "+1-514-528-7295",
+        "contact:website": "http://www.alimentsmerci.com",
+        "name": "Aliments Merci",
+        "opening_hours": "Mo-We 09:00-15:00; Th,Fr 09:00-20:30; Sa 09:00-17:00; Su 10:00-17:00",
+        "operator": "Aliments Merci",
+        "organic": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.544762,
+          45.5454985
+        ]
+      },
+      "id": "node/3780905699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3798453615",
+        "name": "SAQ",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5588614,
+          45.4940241
+        ]
+      },
+      "id": "node/3798453615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307842926",
+        "addr:city": "Montréal",
+        "addr:housenumber": "333",
+        "addr:postcode": "H3J 1T9",
+        "addr:province": "QC",
+        "addr:street": "Rue Richmond",
+        "name": "Le Richmond - Marché italien",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5661101,
+          45.4884853
+        ]
+      },
+      "id": "node/4307842926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4368685569",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6270",
+        "addr:street": "Somerled",
+        "name": "Fruiterie NDG",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6352571,
+          45.4706859
+        ]
+      },
+      "id": "node/4368685569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4369987298",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6170",
+        "addr:street": "Rue Sherbrooke Ouest",
+        "name": "Supermarche Akhavan",
+        "shop": "supermarket",
+        "website": "http://www.akhavanfood.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6228533,
+          45.4666814
+        ]
+      },
+      "id": "node/4369987298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4371588174",
+        "addr:city": "Montreal",
+        "addr:housenumber": "7890",
+        "addr:postcode": "H2R 2E8",
+        "addr:street": "St-Denis",
+        "name": "Marché Richelieu Chauvin",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6260468,
+          45.5415386
+        ]
+      },
+      "id": "node/4371588174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4375823648",
+        "addr:city": "Montréal",
+        "addr:housenumber": "115",
+        "addr:street": "Chemin de la Pointe Nord",
+        "name": "La Petite epicerie pointe Nord",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.538862,
+          45.4730368
+        ]
+      },
+      "id": "node/4375823648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402725301",
+        "addr:city": "Montréal",
+        "addr:province": "Québec",
+        "addr:street": "Rue Peel",
+        "name": "Adonis Griffintown",
+        "opening_hours": "09:00-21:00",
+        "opening_hours_1": "Week end 9:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5589069,
+          45.4941437
+        ]
+      },
+      "id": "node/4402725301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4459603269",
+        "addr:city": "Montréal",
+        "addr:street": "Sainte-Catherine",
+        "name": "Folie en Vrac",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5555493,
+          45.5189427
+        ]
+      },
+      "id": "node/4459603269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4459609771",
+        "addr:city": "Montréal",
+        "addr:street": "Sainte-Catherine",
+        "name": "Rachelle Berry",
+        "operator": "Rachelle Berry",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5563823,
+          45.5180038
+        ]
+      },
+      "id": "node/4459609771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463965094",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2008",
+        "addr:postcode": "H2K 1A7",
+        "addr:province": "Québec",
+        "addr:street": "Rue Gauthier",
+        "name": "Marché Metro Bigras",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5656048,
+          45.5312825
+        ]
+      },
+      "id": "node/4463965094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4476198684",
+        "name": "Couche-Tard",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5939346,
+          45.5570938
+        ]
+      },
+      "id": "node/4476198684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4483783194",
+        "name": "c'estlavie",
+        "name:fr": "c'estlavie",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5822839,
+          45.534997
+        ]
+      },
+      "id": "node/4483783194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4486031790",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2196",
+        "addr:postcode": "H2H 1M8",
+        "addr:province": "Québec",
+        "addr:street": "Rue Marie-Anne Est",
+        "name": "Dépanneur Circle",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568836,
+          45.5352747
+        ]
+      },
+      "id": "node/4486031790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4581780103",
+        "addr:housenumber": "337",
+        "addr:street": "Rue de Castelnau Est",
+        "name": "Magasin Général de Castelnau",
+        "name:fr": "Magasin Général de Castelnau",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6178552,
+          45.5382501
+        ]
+      },
+      "id": "node/4581780103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692493589",
+        "addr:housenumber": "1475",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "email": "bleuetpersille@gmail.com",
+        "name": "Bleu & Persillé",
+        "name:fr": "Bleu & Persillé",
+        "opening_hours": "Tu-Sa 10:00-19:00; Su-Mo 11:00-18:00",
+        "phone": "+1-438-386-1475",
+        "shop": "supermarket",
+        "website": "https://bleuetpersille.ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5763095,
+          45.5313317
+        ]
+      },
+      "id": "node/4692493589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4904250323",
+        "name": "Asian supermarket",
+        "name:en": "Asian supermarket",
+        "name:fr": "Supermarché asiatique",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5604924,
+          45.5081911
+        ]
+      },
+      "id": "node/4904250323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4911747354",
+        "addr:city": "Longueuil",
+        "addr:housenumber": "1834",
+        "addr:street": "Rue Saint-Pierre",
+        "name": "Marché Ami",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.494906,
+          45.5085845
+        ]
+      },
+      "id": "node/4911747354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5093061421",
+        "addr:housenumber": "6896",
+        "addr:street": "Boulevard Saint-Laurent",
+        "name": "Milano",
+        "name:fr": "Milano",
+        "opening_hours": "Mo-We 08:00-18:00; Th-Fr 08:00-21:00; Sa-Su 08:00-17:00",
+        "shop": "supermarket",
+        "website": "https://fruiteriemilano.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6150197,
+          45.533149
+        ]
+      },
+      "id": "node/5093061421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111290868",
+        "addr:street": "Rue Ontario Est",
+        "description": "Magasin général écologique : nettoyage, alimentation, jardin, produits pour bébé...",
+        "name": "Terre à soi",
+        "opening_hours": "Mo-We 10:00-18:00; Th-Fr 10:00-21:00; Sa-Su 10:00-17:00",
+        "payment:debit_cards": "yes",
+        "payment:visa": "yes",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5446373,
+          45.5449553
+        ]
+      },
+      "id": "node/5111290868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111500547",
+        "addr:city": "Montreal",
+        "addr:housenumber": "3668",
+        "addr:province": "QC",
+        "addr:street": "Rue Ontario Est",
+        "cuisine": "mexican",
+        "name": "épicerie Saber del sur",
+        "phone": "+1-514-657-4668",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5440781,
+          45.545874
+        ]
+      },
+      "id": "node/5111500547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5366508722",
+        "name": "B&Y marché urbain",
+        "opening_hours": "24/7",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5747551,
+          45.5147454
+        ]
+      },
+      "id": "node/5366508722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5472246122",
+        "brand": "Provigo",
+        "brand:wikidata": "Q3408306",
+        "brand:wikipedia": "en:Provigo",
+        "description": "Fairly large supermarket at the upper price range.",
+        "name": "Provigo",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5703327,
+          45.4965189
+        ]
+      },
+      "id": "node/5472246122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5527782636",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5595",
+        "addr:street": "Avenue de Monkland",
+        "name": "Provigo",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6229065,
+          45.4759935
+        ]
+      },
+      "id": "node/5527782636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5544176196",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1440",
+        "addr:postcode": "H3G 2J1",
+        "addr:province": "Québec",
+        "addr:street": "Rue Mackay",
+        "name": "le frigo vert",
+        "opening_hours": "Mo-Th 11:00-18:00; Fr-Su closed",
+        "shop": "supermarket",
+        "website": "http://www.lefrigovert.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5781457,
+          45.4962592
+        ]
+      },
+      "id": "node/5544176196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5601046307",
+        "addr:housenumber": "4437",
+        "addr:street": "Rue Wellington",
+        "description": "Épicerie écologique.",
+        "name": "Épicerie LOCO",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa, Su 09:00-19:00",
+        "phone": "438 476-4794",
+        "shop": "supermarket",
+        "website": "https://www.epicerieloco.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5674959,
+          45.4596149
+        ]
+      },
+      "id": "node/5601046307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5693254304",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1905",
+        "addr:postcode": "H2L 1S7",
+        "addr:province": "Quebec",
+        "addr:street": "Rue Ontario Est",
+        "name": "Marché D&T",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5586687,
+          45.5269531
+        ]
+      },
+      "id": "node/5693254304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5697127170",
+        "name": "IGA",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5013272,
+          45.4934807
+        ]
+      },
+      "id": "node/5697127170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5702960692",
+        "addr:housenumber": "1670",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "level": "0",
+        "name": "L'InterMarché Plateau",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5749196,
+          45.5323628
+        ]
+      },
+      "id": "node/5702960692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5702960704",
+        "addr:housenumber": "1376",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "level": "0",
+        "name": "Marché Branche d'Olivier",
+        "opening_hours": "Mo-We,Sa 10:00-20:00;Th-Fr 10:00-21:00;Su 10:00-18:00",
+        "phone": "+1 514 524 4440",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5765912,
+          45.530539
+        ]
+      },
+      "id": "node/5702960704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5747076107",
+        "name": "Marché G&D",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559597,
+          45.5077825
+        ]
+      },
+      "id": "node/5747076107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5816010709",
+        "addr:housenumber": "1133",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "name": "Salé Sucré",
+        "opening_hours": "Mo-We 10:00-18:30;Th-Fr 10:00-21:00;Sa-Su 10:00-17:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5789929,
+          45.5284789
+        ]
+      },
+      "id": "node/5816010709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5862239555",
+        "addr:housenumber": "1376",
+        "name": "Marché Branche d'Olivier – Aliments Naturel, Biologique et Orienteaux",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57659,
+          45.5305824
+        ]
+      },
+      "id": "node/5862239555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5891726661",
+        "addr:housenumber": "1957",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "level": "0",
+        "name": "William J. Walter Saucissier",
+        "opening_hours": "Mo-We,Sa-Su 10:00-20:00;Th-Fr 10:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5735068,
+          45.534261
+        ]
+      },
+      "id": "node/5891726661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6061702592",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3695",
+        "addr:postcode": "H2X 2V7",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "level": "0",
+        "name": "B&Y Marché Urbain",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "(514)844-1874",
+        "shop": "supermarket",
+        "website": "https://www.b-y.ca/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5742246,
+          45.5149051
+        ]
+      },
+      "id": "node/6061702592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283043210",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5251",
+        "addr:postcode": "H3W 1Y3",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "name": "Fruiterie Mont-Carmel",
+        "opening_hours": "Sa-We 08:00-20:00; Th-Fr 08:00-21:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6288695,
+          45.4843551
+        ]
+      },
+      "id": "node/6283043210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6528172285",
+        "name": "FOU D'ICi",
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5688858,
+          45.5069118
+        ]
+      },
+      "id": "node/6528172285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6543197136",
+        "addr:city": "Montréal",
+        "addr:housenumber": "319",
+        "addr:postcode": "H3C0S6",
+        "addr:province": "QC",
+        "addr:street": "Rue de la Montagne",
+        "name": "Allons Vert",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "organic": "only",
+        "shop": "supermarket",
+        "start_date": "2019-07-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5627262,
+          45.4923426
+        ]
+      },
+      "id": "node/6543197136"
+    }
+  ]
+}

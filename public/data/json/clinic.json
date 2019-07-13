@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-07-13T16:08:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/405126420",
+        "amenity": "clinic",
+        "name": "CLSC St-Henri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5839347,
+          45.4786237
+        ]
+      },
+      "id": "node/405126420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1699407085",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CLSC de Saint-Michel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6085879,
+          45.5652746
+        ]
+      },
+      "id": "node/1699407085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1859173516",
+        "amenity": "clinic",
+        "name": "CLSC Saint-Louis-du-Parc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5869007,
+          45.5199705
+        ]
+      },
+      "id": "node/1859173516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2329660390",
+        "addr:city": "Montréal",
+        "addr:housenumber": "997",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Saint-Laurent",
+        "amenity": "clinic",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "name": "Clinique Medicale Carron's",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559346,
+          45.508001
+        ]
+      },
+      "id": "node/2329660390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408151099",
+        "amenity": "clinic",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "CLSC Côte-des-Neiges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6139336,
+          45.5219065
+        ]
+      },
+      "id": "node/2408151099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2422318919",
+        "addr:housenumber": "1651",
+        "amenity": "clinic",
+        "name": "Dermapiderme",
+        "opening_hours": "Mo 12:00-18:00; Tu-Fr 10:00-18:00; Sa 10:00-16:00",
+        "phone": "+1-514-527-0015",
+        "website": "http://www.dermapiderme.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5598507,
+          45.5188356
+        ]
+      },
+      "id": "node/2422318919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2496131042",
+        "addr:city": "Montréal",
+        "addr:housenumber": "13926",
+        "addr:postcode": "H1A 1T5",
+        "addr:province": "QC",
+        "addr:street": "Rue Notre-Dame Est",
+        "addr:suburb": "RDP-Pointe-Aux-Trembles",
+        "amenity": "clinic",
+        "emergency": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "CLSC de l'Est-de-Montréal (anciennement CLSC de Pointe-Aux-Trembles-Montréal-Est)",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-12:00,13:00-16:00",
+        "operator": "CIUSSS de l'Est-de-l'Île-de-Montréal",
+        "phone": "+1-514-642-4050",
+        "website": "https://ciusss-estmtl.gouv.qc.ca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4934196,
+          45.6664093
+        ]
+      },
+      "id": "node/2496131042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500240135",
+        "addr:housenumber": "5800",
+        "addr:postcode": "H4W 2T5",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Cavendish",
+        "addr:suburb": "Côte Saint-Luc",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "internet_access": "wlan",
+        "name": "CLSC Rene Cassin",
+        "phone": "+1 514 484 7878",
+        "website": "www.cssscavendish.qc.ca "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6663175,
+          45.4761445
+        ]
+      },
+      "id": "node/2500240135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501227158",
+        "addr:housenumber": "5700",
+        "addr:postcode": "H3T 2A8",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte-Des-Neiges",
+        "addr:suburb": "Côte-des-Neiges–NDG",
+        "amenity": "clinic",
+        "internet_access": "wlan",
+        "name": "CLSC Côte-des-Neiges",
+        "phone": "+1 514 731 8531",
+        "website": "http://www.csssdelamontagne.qc.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6272654,
+          45.4982107
+        ]
+      },
+      "id": "node/2501227158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501250653",
+        "addr:housenumber": "1811",
+        "addr:postcode": "H8N 1T9",
+        "addr:province": "QC",
+        "addr:street": "Avenue Dollard",
+        "addr:suburb": "LaSalle",
+        "amenity": "clinic",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "Île Sans Fil",
+        "name": "Centre de Gynécologie et de Maternité de Lasalle",
+        "phone": "+1 514 364 3700",
+        "website": "www.gynecolasalle.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.632023,
+          45.4299252
+        ]
+      },
+      "id": "node/2501250653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2503411439",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4261",
+        "addr:postcode": "H1V 1X5",
+        "addr:street": "Rue Sainte-Catherine Est",
+        "amenity": "clinic",
+        "name": "Clinique médicale L'espérance",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.534572,
+          45.5502982
+        ]
+      },
+      "id": "node/2503411439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2521473004",
+        "addr:postcode": "H9B 2Y1",
+        "addr:street": "Boulevard Décarie",
+        "amenity": "clinic",
+        "name": "Club Tiny Tots - Children's Medical Center",
+        "phone": "+1-514-342-9911",
+        "website": "http://www.clubtinytots.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6512781,
+          45.4908704
+        ]
+      },
+      "id": "node/2521473004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687686369",
+        "addr:housenumber": "1955",
+        "addr:street": "Rue Centre",
+        "amenity": "clinic",
+        "name": "Clinique Communautaire de Pointe-Saint-Charles",
+        "phone": "+1-514-937-9251",
+        "website": "https://ccpsc.qc.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5633832,
+          45.4822639
+        ]
+      },
+      "id": "node/2687686369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687914611",
+        "amenity": "clinic",
+        "name": "Bella Clinique Esthétique",
+        "opening_hours": "Mo \"sur rdv\"; Tu-Fr 11:00-18:00; Sa 10:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567348,
+          45.4896314
+        ]
+      },
+      "id": "node/2687914611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2704428016",
+        "addr:city": "Montréal-Ouest",
+        "addr:housenumber": "1",
+        "addr:street": "Avenue Westminster Nord",
+        "amenity": "clinic",
+        "name": "FM-3 Montréal-West",
+        "source": "NRCan-CanVec-10.0",
+        "website": "http://www.forcemedic.ca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6444552,
+          45.4526924
+        ]
+      },
+      "id": "node/2704428016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2704433511",
+        "addr:city": "Montreal",
+        "addr:housenumber": "6484",
+        "addr:street": "Avenue de Monkland",
+        "amenity": "clinic",
+        "name": "CLSC de Benny Farm",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6317598,
+          45.465392
+        ]
+      },
+      "id": "node/2704433511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864948609",
+        "amenity": "clinic",
+        "name": "Clinique Médicale Hampstead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6304985,
+          45.4830808
+        ]
+      },
+      "id": "node/2864948609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3158062163",
+        "addr:city": "Montréal",
+        "addr:street": "Somerled",
+        "amenity": "clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6390698,
+          45.4664799
+        ]
+      },
+      "id": "node/3158062163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3224187165",
+        "addr:housenumber": "555",
+        "addr:street": "Rue Principale",
+        "amenity": "clinic",
+        "name": "CLSC",
+        "website": "http://www.santemonteregie.qc.ca/cssspierreboucher/services/lieux/detail/stamable.fr.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3067192,
+          45.6434348
+        ]
+      },
+      "id": "node/3224187165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3241256939",
+        "addr:housenumber": "1850",
+        "addr:postcode": "J4W 3C6",
+        "addr:street": "Avenue Panama",
+        "amenity": "clinic",
+        "email": "info@lasikmd.com",
+        "name": "LASIK MD",
+        "phone": "+1-450-466-7742",
+        "start_date": "2001",
+        "website": "http://www.lasikmd.com/brossard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4703537,
+          45.4683349
+        ]
+      },
+      "id": "node/3241256939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243359534",
+        "addr:city": "Laval",
+        "addr:housenumber": "2525",
+        "addr:postcode": "H7T 1S9",
+        "addr:province": "QC",
+        "addr:street": "Boulevard Daniel-Johnson",
+        "amenity": "clinic",
+        "email": "info@lasikmd.com",
+        "fax": "+1-450-902-0164",
+        "name": "LASIK MD",
+        "phone": "+1-450-902-2222",
+        "website": "http://www.lasikmd.com/laval"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.754414,
+          45.5683852
+        ]
+      },
+      "id": "node/3243359534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243460895",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1250",
+        "addr:postcode": "H3B 4W8",
+        "addr:province": "QC",
+        "addr:street": "Boulevard René-Lévesque Ouest",
+        "amenity": "clinic",
+        "email": "info@lasikmd.com",
+        "fax": "+1-514-933-4408",
+        "name": "LASIK MD",
+        "name:ko": "대한민국 몬트리올 총영사관",
+        "phone": "+1-514-362-8677",
+        "website": "http://www.lasikmd.com/montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.570973,
+          45.4975191
+        ]
+      },
+      "id": "node/3243460895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3243585607",
+        "addr:city": "Pointe-Claire",
+        "addr:housenumber": "2415A",
+        "addr:postcode": "H9R 5Z5",
+        "addr:province": "QC",
+        "addr:street": "Route Transcanadienne",
+        "amenity": "clinic",
+        "email": "info@lasikmd.com",
+        "fax": "+1-514-697-3035",
+        "name": "LASIK MD",
+        "phone": "+1-514-845-1515",
+        "website": "http://www.lasikmd.com/pointe-claire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7906657,
+          45.4835859
+        ]
+      },
+      "id": "node/3243585607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3345997309",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1250",
+        "addr:postcode": "H3B 4W8",
+        "addr:province": "Quebec",
+        "addr:street": "Boulevard René-Lévesque Ouest",
+        "amenity": "clinic",
+        "name": "Cataract MD",
+        "phone": "+1-514-908-9988",
+        "website": "http://www.cataractmd.ca/francais/cataract-md-montreal.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5711553,
+          45.4973156
+        ]
+      },
+      "id": "node/3345997309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3696228762",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5885",
+        "addr:province": "QC",
+        "addr:street": "Chemin de la Côte-Des-Neiges",
+        "amenity": "clinic",
+        "name": "Diamond Clinic",
+        "opening_hours": "08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6302357,
+          45.5002146
+        ]
+      },
+      "id": "node/3696228762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4307611575",
+        "amenity": "clinic",
+        "name": "Clinique médicale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5474117,
+          45.5765539
+        ]
+      },
+      "id": "node/4307611575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311364671",
+        "addr:housenumber": "283",
+        "addr:street": "Rue Beaubien Est",
+        "amenity": "clinic",
+        "name": "Osteo-Montreal",
+        "website": "http://www.osteo-montreal.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6062155,
+          45.5327653
+        ]
+      },
+      "id": "node/4311364671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350342189",
+        "addr:housenumber": "108",
+        "addr:street": "Rue Saint-Laurent",
+        "amenity": "clinic",
+        "name": "Clinique dentaire HETIER & Centre optométrique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8882378,
+          45.5681907
+        ]
+      },
+      "id": "node/4350342189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4350355689",
+        "addr:housenumber": "180",
+        "addr:street": "25e Avenue",
+        "amenity": "clinic",
+        "name": "Clinique Physioactif",
+        "phone": "+1-450-623-3291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8753213,
+          45.5750848
+        ]
+      },
+      "id": "node/4350355689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4354923864",
+        "amenity": "clinic",
+        "name": "Rockland MD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.626025,
+          45.5195091
+        ]
+      },
+      "id": "node/4354923864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357697794",
+        "addr:city": "Westmount",
+        "addr:housenumber": "1255",
+        "addr:postcode": "H3Z 2A4",
+        "addr:street": "Greene Avenue",
+        "amenity": "clinic",
+        "name": "Green Avenue Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5890136,
+          45.4868151
+        ]
+      },
+      "id": "node/4357697794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4371775503",
+        "addr:street": "boulevard henrry bourassa",
+        "amenity": "clinic",
+        "name": "clinique st collette",
+        "name:fr": "clinique st collette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6386345,
+          45.5924929
+        ]
+      },
+      "id": "node/4371775503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4402756505",
+        "amenity": "clinic",
+        "name": "CLSC de Saint-Laurent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6808574,
+          45.5172603
+        ]
+      },
+      "id": "node/4402756505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418094524",
+        "addr:housenumber": "905",
+        "addr:street": "Boulevard René-Lévesque Est",
+        "amenity": "clinic",
+        "name": "Clinique médicale Quartier Latin",
+        "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-17:00; Sa 09:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5563917,
+          45.5151353
+        ]
+      },
+      "id": "node/4418094524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419500483",
+        "amenity": "clinic",
+        "name": "Plexo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.621581,
+          45.5103941
+        ]
+      },
+      "id": "node/4419500483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4419500485",
+        "amenity": "clinic",
+        "name": "ICS Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6218597,
+          45.5103513
+        ]
+      },
+      "id": "node/4419500485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421361237",
+        "amenity": "clinic",
+        "name": "Clinique AC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5572595,
+          45.5133165
+        ]
+      },
+      "id": "node/4421361237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421364333",
+        "amenity": "clinic",
+        "name": "Clinique podiatrique Berri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.556512,
+          45.512969
+        ]
+      },
+      "id": "node/4421364333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421364339",
+        "amenity": "clinic",
+        "name": "Clinique médicale Mont-Carmel",
+        "phone": "+1-514-282-9197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5560473,
+          45.5155512
+        ]
+      },
+      "id": "node/4421364339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4457051791",
+        "amenity": "clinic",
+        "name": "Pharmacie",
+        "name:fr": "Pharmacie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5649082,
+          45.5416242
+        ]
+      },
+      "id": "node/4457051791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4457134989",
+        "amenity": "clinic",
+        "name": "Médicus",
+        "name:fr": "Médicus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5598494,
+          45.5394966
+        ]
+      },
+      "id": "node/4457134989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4464047889",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2120",
+        "addr:postcode": "H2K 1C3",
+        "addr:province": "Québec",
+        "addr:street": "Rue Sherbrooke Est",
+        "amenity": "clinic",
+        "name": "Clinique de Santé et Service Sociaux Jeanne-Mance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.562667,
+          45.5309708
+        ]
+      },
+      "id": "node/4464047889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4479787078",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1851",
+        "addr:postcode": "H2K 4L5",
+        "addr:province": "Québec",
+        "addr:street": "Rue Sherbrooke Est",
+        "amenity": "clinic",
+        "name": "Clinique 1851"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5639517,
+          45.5288619
+        ]
+      },
+      "id": "node/4479787078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4479787079",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1851",
+        "addr:postcode": "H2K 4L5",
+        "addr:province": "Québec",
+        "addr:street": "Rue Sherbrooke Est",
+        "amenity": "clinic",
+        "name": "Laboratoire Radiologie Léger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563992,
+          45.5288055
+        ]
+      },
+      "id": "node/4479787079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4480039364",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4255",
+        "addr:postcode": "H2H 1T3",
+        "addr:province": "Québec",
+        "addr:street": "Avenue Papineau",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CSSS Jeanne-Mance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5700564,
+          45.5310848
+        ]
+      },
+      "id": "node/4480039364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4492764646",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2200",
+        "addr:postcode": "H2H 1K4",
+        "addr:province": "Québec",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinic de soins esthétique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5709208,
+          45.5365452
+        ]
+      },
+      "id": "node/4492764646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4569127254",
+        "amenity": "clinic",
+        "name": "Édifice Médical Fleury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6488415,
+          45.5736912
+        ]
+      },
+      "id": "node/4569127254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4586208312",
+        "addr:city": "Montréal",
+        "addr:street": "Rue Lajeunesse",
+        "amenity": "clinic",
+        "name": "Centre Médical Louvain",
+        "phone": "+1-514-381-7192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6510785,
+          45.550333
+        ]
+      },
+      "id": "node/4586208312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4627335797",
+        "amenity": "clinic",
+        "name": "Clinique Médicale Chapleau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.762256,
+          45.6665974
+        ]
+      },
+      "id": "node/4627335797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711791764",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1253",
+        "addr:postcode": "H3H 2K5",
+        "addr:province": "Québec",
+        "addr:street": "Rue Guy",
+        "amenity": "clinic",
+        "automatic_door": "no",
+        "name": "Clinique Medicale Alpha Medic",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5773241,
+          45.4949316
+        ]
+      },
+      "id": "node/4711791764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755290417",
+        "amenity": "clinic",
+        "name": "CLSC Des Patriotes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3408877,
+          45.5281121
+        ]
+      },
+      "id": "node/4755290417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853643841",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "La Maison Victor-Gadbois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2804206,
+          45.5910541
+        ]
+      },
+      "id": "node/4853643841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937402994",
+        "amenity": "clinic",
+        "healthcare:speciality": "Podiatry",
+        "name": "Clinique podiatrique du Sud-Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.576152,
+          45.4599985
+        ]
+      },
+      "id": "node/4937402994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937403003",
+        "amenity": "clinic",
+        "healthcare:speciality": "radiology",
+        "name": "Clinique de radiologie de l'ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5761538,
+          45.4601343
+        ]
+      },
+      "id": "node/4937403003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4937403009",
+        "amenity": "clinic",
+        "healthcare:speciality": "general",
+        "name": "Clinique médicale du Sud-Ouest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5761585,
+          45.460073
+        ]
+      },
+      "id": "node/4937403009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4998647785",
+        "amenity": "clinic",
+        "name": "Polyclinique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6148979,
+          45.6955695
+        ]
+      },
+      "id": "node/4998647785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078027721",
+        "addr:housenumber": "5669",
+        "addr:postcode": "H1P 1V5",
+        "addr:street": "Rue Jarry Est",
+        "amenity": "clinic",
+        "contact:phone": "+1-514-322-8688",
+        "contact:website": "http://physiosante.ca",
+        "healthcare": "physiotherapist",
+        "name": "Physiothérapie Ressource Santé",
+        "name:fr": "Physiothérapie Ressource Santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5891714,
+          45.5870771
+        ]
+      },
+      "id": "node/5078027721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150908122",
+        "amenity": "clinic",
+        "name": "1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7619055,
+          45.5496809
+        ]
+      },
+      "id": "node/5150908122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5150919021",
+        "amenity": "clinic",
+        "name": "Centre integre de sante et de services sociaux de Laval "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7625689,
+          45.5501653
+        ]
+      },
+      "id": "node/5150919021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158135254",
+        "addr:city": "Montréal",
+        "addr:housenumber": "11822",
+        "addr:street": "Avenue de Bois de Boulogne",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "CLSC Bordeaux-Cartierville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6896785,
+          45.5409575
+        ]
+      },
+      "id": "node/5158135254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5170624264",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinique Azur",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4873553,
+          45.4993306
+        ]
+      },
+      "id": "node/5170624264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308387223",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centre de Jour Angelica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6515004,
+          45.5893311
+        ]
+      },
+      "id": "node/5308387223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5380668031",
+        "addr:housenumber": "4801",
+        "addr:street": "Rue Molson",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinique Podiatrique Angus",
+        "phone": "+1-514-284-0909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5691946,
+          45.5420561
+        ]
+      },
+      "id": "node/5380668031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497779461",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Centre médical des Boisés",
+        "phone": "(450) 687-8585",
+        "website": "www.cmdesboises.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7756091,
+          45.546673
+        ]
+      },
+      "id": "node/5497779461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5507865540",
+        "addr:city": "Westmount",
+        "addr:housenumber": "4060",
+        "addr:street": "Saint Catherine Street West",
+        "addr:unit": "420",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinique Cabot Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5860565,
+          45.4877645
+        ]
+      },
+      "id": "node/5507865540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536207070",
+        "addr:city": "Montréal",
+        "addr:housenumber": "5757",
+        "addr:street": "Avenue de Monkland",
+        "amenity": "clinic",
+        "name": "Alter Med",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.624688,
+          45.4738657
+        ]
+      },
+      "id": "node/5536207070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536207763",
+        "addr:city": "Montréal",
+        "addr:housenumber": "6052",
+        "addr:postcode": "H4A 1H2",
+        "addr:street": "Avenue de Monkland",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "chiropractic",
+        "name": "Clinique chiropratique Monkland",
+        "phone": "+1 438 968 1901",
+        "source": "survey",
+        "website": "http://chiromonkland.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.626939,
+          45.4708191
+        ]
+      },
+      "id": "node/5536207763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5702960683",
+        "addr:housenumber": "1374",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "1",
+        "name": "Clinique Médicale Plateau Mont-Royal",
+        "phone": "+1 514 527 3997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5766803,
+          45.5304546
+        ]
+      },
+      "id": "node/5702960683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5720825176",
+        "addr:housenumber": "2046",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "level": "0",
+        "name": "La clinique santé 24/7",
+        "phone": "+1 514 819 2247",
+        "website": "http://www.expertise24-7.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5724302,
+          45.5349841
+        ]
+      },
+      "id": "node/5720825176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5731466711",
+        "addr:city": "Montréal",
+        "addr:housenumber": "529",
+        "addr:postcode": "H2P 1V4",
+        "addr:province": "QC",
+        "addr:street": "Rue Jarry Est",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Polyclinique Coeur-de-l'Île",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "514 277-4111",
+        "website": "http://www.polycdi.com/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6288327,
+          45.543589
+        ]
+      },
+      "id": "node/5731466711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5753911521",
+        "addr:housenumber": "5492",
+        "addr:street": "Chemin Queen Mary",
+        "amenity": "clinic",
+        "name": "Dermato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6309039,
+          45.481389
+        ]
+      },
+      "id": "node/5753911521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5932243795",
+        "addr:housenumber": "55",
+        "addr:street": "Rue de l'Église",
+        "amenity": "clinic",
+        "health_service:child_care": "Dr Jolette",
+        "name": "Clinique Médico-chirurgicale de Verdun",
+        "phone": "+1-514-737-2496"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5645142,
+          45.46278
+        ]
+      },
+      "id": "node/5932243795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5932396458",
+        "addr:housenumber": "3950",
+        "addr:street": "Boulevard LaSalle",
+        "amenity": "clinic",
+        "description": "Clinique universitaire de médecine familiale du centre intégré universitaire de santé et de services sociaux (CIUSSS).",
+        "name": "Clinique universitaire de médecine familiale du CIUSSS",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa, Su 08:30-16:30",
+        "phone": "+1-514-765-7325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56427,
+          45.4638748
+        ]
+      },
+      "id": "node/5932396458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5932473944",
+        "amenity": "clinic",
+        "description": "Service de pédiatrie avec ou sans rendez-vous. Fait partie de l'hôpital de LaSalle.",
+        "health_service:child_care": "yes",
+        "name": "Clinique externe de pédiatrie",
+        "phone": "+1-514-367-8626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6235347,
+          45.4208068
+        ]
+      },
+      "id": "node/5932473944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5998757587",
+        "addr:housenumber": "304",
+        "addr:street": "Avenue du Mont-Royal Est",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "healthcare:speciality": "podiatry",
+        "level": "0",
+        "name": "Clinique Podiatrique Mont-Royal",
+        "phone": "+1 514 543 4848",
+        "website": "https://www.cliniquepodiatriquemr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5835952,
+          45.522982
+        ]
+      },
+      "id": "node/5998757587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6140479588",
+        "addr:city": "Montréal",
+        "addr:housenumber": "1575",
+        "addr:street": "Boulevard Henri-Bourassa Ouest",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinique Bois de Boulogne,"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6796806,
+          45.5376244
+        ]
+      },
+      "id": "node/6140479588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6156554280",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Clinique MDCM - GMF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6048682,
+          45.4691198
+        ]
+      },
+      "id": "node/6156554280"
+    }
+  ]
+}

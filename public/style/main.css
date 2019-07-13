@@ -1,9 +1,9 @@
 body {
-    margin: 0;
     padding: 0;
 }
   
 #map {
+    margin: 15vw;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -13,14 +13,38 @@ body {
 .marker {
     background-color: red;
     background-size: cover;
-    width: 50px;
-    height: 50px;
+    width: 7px;
+    height: 7px;
     border-radius: 50%;
     cursor: pointer;
 }
 
+.mapboxgl-ctrl-top-right {
+    position: fixed !important;
+}
+
 .marker.metro {
     background-color: green;
+}
+
+.marker.clinic {
+    background-color: blue;
+}
+
+.marker.school {
+    background-color: pink;
+}
+
+.marker.park {
+    background-color: purple;
+}
+
+.marker.grocery {
+    background-color: orange;
+}
+
+.marker.gym{
+    background-color: cyan;
 }
 
 .mapboxgl-popup {
