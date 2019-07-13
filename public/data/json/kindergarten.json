@@ -1,0 +1,827 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-07-13T03:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/207717952",
+        "amenity": "kindergarten",
+        "name": "CPE Pause-Parent-Enfant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5677284,
+          45.4565667
+        ]
+      },
+      "id": "node/207717952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305551559",
+        "addr:housenumber": "5307",
+        "addr:postcode": "H3T 1Y4",
+        "addr:street": "Chemin de la Côte-des-Neiges",
+        "amenity": "kindergarten",
+        "name": "CPE de la côte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6220967,
+          45.4965167
+        ]
+      },
+      "id": "node/305551559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/764524135",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6044225,
+          45.5397911
+        ]
+      },
+      "id": "node/764524135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/764524161",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5897925,
+          45.5568706
+        ]
+      },
+      "id": "node/764524161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867695803",
+        "addr:housenumber": "4120",
+        "addr:street": "Rue André-Laurendeau",
+        "amenity": "kindergarten",
+        "name": "CPE Coeur de Cannelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5628508,
+          45.5429997
+        ]
+      },
+      "id": "node/867695803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/867695852",
+        "addr:housenumber": "4011",
+        "addr:street": "Boulevard Saint-Michel",
+        "amenity": "kindergarten",
+        "name": "CPE Coeur Atout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.559916,
+          45.547217
+        ]
+      },
+      "id": "node/867695852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/868459391",
+        "addr:housenumber": "1860",
+        "addr:street": "Rue Marie-Anne Est",
+        "amenity": "kindergarten",
+        "name": "CPE Le Sablier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5715801,
+          45.5324601
+        ]
+      },
+      "id": "node/868459391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/992913863",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5674877,
+          45.544506
+        ]
+      },
+      "id": "node/992913863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292356581",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5654492,
+          45.5522751
+        ]
+      },
+      "id": "node/1292356581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1609186533",
+        "addr:housenumber": "105",
+        "addr:street": "Rue Ontario Est",
+        "amenity": "kindergarten",
+        "name": "Centre de la Petite Enfance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567036,
+          45.512628
+        ]
+      },
+      "id": "node/1609186533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1665923284",
+        "amenity": "kindergarten",
+        "name": "CPE Marie-Quat'Poches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8258066,
+          45.6474518
+        ]
+      },
+      "id": "node/1665923284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743950109",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5953215,
+          45.5227589
+        ]
+      },
+      "id": "node/1743950109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751221429",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6396594,
+          45.5470812
+        ]
+      },
+      "id": "node/1751221429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2044852946",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9878076,
+          45.3740025
+        ]
+      },
+      "id": "node/2044852946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052251077",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97342,
+          45.3866495
+        ]
+      },
+      "id": "node/2052251077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052286555",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9544461,
+          45.3937339
+        ]
+      },
+      "id": "node/2052286555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2105949148",
+        "amenity": "kindergarten",
+        "name": "CPE La Vermouilleuse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5518631,
+          45.550003
+        ]
+      },
+      "id": "node/2105949148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110244677",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9785733,
+          45.3789605
+        ]
+      },
+      "id": "node/2110244677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2402689240",
+        "amenity": "kindergarten",
+        "name": "Les P'tits de St-Vincent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6572445,
+          45.6151232
+        ]
+      },
+      "id": "node/2402689240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2495667791",
+        "amenity": "kindergarten",
+        "name": "Garderie mini Trésor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.612547,
+          45.425218
+        ]
+      },
+      "id": "node/2495667791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510769588",
+        "addr:housenumber": "5197",
+        "addr:postcode": "H3T 1Y1",
+        "addr:street": "Chemin de la Côte Des Neiges",
+        "amenity": "kindergarten",
+        "name": "Garderie Metropolitain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6205386,
+          45.495743
+        ]
+      },
+      "id": "node/2510769588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519449673",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.582119,
+          45.4910626
+        ]
+      },
+      "id": "node/2519449673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868433723",
+        "amenity": "kindergarten",
+        "name": "CPE La Rose des Vents"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8726872,
+          45.6794459
+        ]
+      },
+      "id": "node/2868433723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4311277290",
+        "addr:housenumber": "418",
+        "addr:street": "Rue Beaubien Est",
+        "amenity": "kindergarten",
+        "name": "Garderie Bébé Miracle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6045324,
+          45.5344103
+        ]
+      },
+      "id": "node/4311277290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453314946",
+        "addr:housenumber": "1085",
+        "amenity": "kindergarten",
+        "name": "Garderie La Chanterelle",
+        "phone": "+1 450 677 0000",
+        "website": "http://garderielachanterelle.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5023792,
+          45.5191333
+        ]
+      },
+      "id": "node/4453314946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463269621",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7615351,
+          45.6633108
+        ]
+      },
+      "id": "node/4463269621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4601007757",
+        "amenity": "kindergarten",
+        "name": "Garderie Éducative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6194104,
+          45.7274254
+        ]
+      },
+      "id": "node/4601007757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602707904",
+        "amenity": "kindergarten",
+        "name": "Garderie Les Petites Cocinelles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7042071,
+          45.7231781
+        ]
+      },
+      "id": "node/4602707904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4907813907",
+        "addr:housenumber": "3692",
+        "addr:street": "Rue Wellington",
+        "amenity": "kindergarten",
+        "level": "0",
+        "name": "Garderie éducative Chouchou",
+        "phone": "+1 514-508-9855",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5664888,
+          45.4668691
+        ]
+      },
+      "id": "node/4907813907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5000035403",
+        "amenity": "kindergarten",
+        "name": "Les Trésors Nemo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8476465,
+          45.6505081
+        ]
+      },
+      "id": "node/5000035403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5069183487",
+        "amenity": "kindergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8394565,
+          45.6374488
+        ]
+      },
+      "id": "node/5069183487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111364835",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3401",
+        "addr:postcode": "H1W 1P9",
+        "addr:province": "QC",
+        "addr:street": "Rue Ontario Est",
+        "amenity": "kindergarten",
+        "name": "Garderie les cristaux magiques",
+        "phone": "+1-514-605-3799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5462052,
+          45.5431314
+        ]
+      },
+      "id": "node/5111364835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111365066",
+        "addr:city": "Montréal",
+        "addr:housenumber": "3402",
+        "addr:postcode": "H1W 1P9",
+        "addr:province": "QC",
+        "addr:street": "Rue Ontario Est",
+        "amenity": "kindergarten",
+        "name": "Bébé magique",
+        "phone": "+1-514-605-3799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5459352,
+          45.5430732
+        ]
+      },
+      "id": "node/5111365066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111490818",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4277",
+        "addr:postcode": "H1V 1K4",
+        "addr:province": "QC",
+        "addr:street": "Rue Ontario Est",
+        "amenity": "kindergarten",
+        "name": "Ma 1ere pouponnière"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5401338,
+          45.5522584
+        ]
+      },
+      "id": "node/5111490818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111490820",
+        "addr:housenumber": "4295",
+        "addr:street": "Rue Ontario Est",
+        "amenity": "kindergarten",
+        "name": "Ma 1ere garderie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5400562,
+          45.5524047
+        ]
+      },
+      "id": "node/5111490820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5111490862",
+        "addr:city": "Montréal",
+        "addr:housenumber": "4257",
+        "addr:postcode": "H1V 1K2",
+        "addr:province": "QC",
+        "addr:street": "Rue Ontario Est",
+        "amenity": "kindergarten",
+        "name": "Garderie 4257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5402781,
+          45.5520606
+        ]
+      },
+      "id": "node/5111490862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5536207093",
+        "amenity": "kindergarten",
+        "name": "Lower Canada College Kindergarten",
+        "name:fr": "Maternelle Lower Canada College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6226656,
+          45.47002
+        ]
+      },
+      "id": "node/5536207093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5585555009",
+        "addr:housenumber": "5967",
+        "addr:street": "Rue Verdun",
+        "amenity": "kindergarten",
+        "name": "Garderie Les petits joyeux",
+        "phone": "514 766-1566"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5727705,
+          45.447856
+        ]
+      },
+      "id": "node/5585555009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5585560941",
+        "addr:housenumber": "5639",
+        "addr:street": "Rue Verdun",
+        "amenity": "kindergarten",
+        "name": "Garderie ABC Verdun",
+        "phone": "514 769-3341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5724901,
+          45.4508178
+        ]
+      },
+      "id": "node/5585560941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586845359",
+        "addr:housenumber": "5176",
+        "addr:street": "Rue Verdun",
+        "amenity": "kindergarten",
+        "name": "La forêt de Maple",
+        "phone": "514 316-4360 N3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5721509,
+          45.4549137
+        ]
+      },
+      "id": "node/5586845359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586881025",
+        "addr:housenumber": "254",
+        "addr:street": "Rue Woodland",
+        "amenity": "kindergarten",
+        "name": "Garderie Les Petits Oiseaux",
+        "phone": "514 761-7361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5683547,
+          45.4522964
+        ]
+      },
+      "id": "node/5586881025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5605688962",
+        "addr:housenumber": "5301",
+        "addr:street": "Rue Wellington",
+        "amenity": "kindergarten",
+        "name": "Garderie éducative Les petits Trésors",
+        "phone": "514 494-0439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5680618,
+          45.4535588
+        ]
+      },
+      "id": "node/5605688962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6476862722",
+        "addr:housenumber": "4120",
+        "addr:street": "43e Rue",
+        "amenity": "kindergarten",
+        "name": "Centre de la petite enfance au galop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.618871,
+          45.5791164
+        ]
+      },
+      "id": "node/6476862722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6577623486",
+        "addr:city": "Montréal",
+        "addr:housenumber": "2251",
+        "addr:postcode": "H2K 2V6",
+        "addr:province": "QC",
+        "addr:street": "Rue Bercy",
+        "amenity": "kindergarten",
+        "name": "Service de garde L’Île des trésors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5549626,
+          45.5360204
+        ]
+      },
+      "id": "node/6577623486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6580638812",
+        "addr:housenumber": "11905",
+        "addr:postcode": "H4J 2J2",
+        "addr:province": "QC",
+        "addr:street": "Rue Grenet",
+        "amenity": "kindergarten",
+        "entrance": "yes",
+        "name": "CPE Enfants De Tous Pays"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7109874,
+          45.526749
+        ]
+      },
+      "id": "node/6580638812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593823249",
+        "addr:housenumber": "482",
+        "amenity": "kindergarten",
+        "description": "Garderie éducative",
+        "name": "Au Pays des Coccinelles",
+        "phone": "+1 450 679 2555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5115278,
+          45.5216781
+        ]
+      },
+      "id": "node/6593823249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6593823252",
+        "amenity": "kindergarten",
+        "description": "Centre de la Petite Enfance",
+        "name": "Le Petit Prince"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5105823,
+          45.5212929
+        ]
+      },
+      "id": "node/6593823252"
+    }
+  ]
+}
