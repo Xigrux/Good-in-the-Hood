@@ -19,13 +19,12 @@ $(document).ready(function() {
 
   geocoder.on("result", function(ev) {
     searchResult = ev.result.geometry;
-    console.log(ev.result.geometry);
     $(".marker").remove();
     renderMarker();
   });
 
   function renderMarker() {
-    console.log("rendering markers");
+    $(".hidden").removeClass("hidden");
     $.getJSON("../data/json/kindergarten.json", function(json) {
       //   ADD KINDERGATEN
       var markers = json.features;
@@ -69,7 +68,7 @@ $(document).ready(function() {
                   marker.properties.amenity +
                   "</p><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -96,7 +95,6 @@ $(document).ready(function() {
           .addTo(map);
 
         if (searchResult) {
-          console.log("redering the distance");
           //   Distance calculator
           var options = { units: "kilometers" };
           Object.defineProperty(marker, "distance", {
@@ -122,7 +120,7 @@ $(document).ready(function() {
                   marker.MetroStation +
                   "</h3><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -175,7 +173,7 @@ $(document).ready(function() {
                   marker.properties.amenity +
                   "</p><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -227,7 +225,7 @@ $(document).ready(function() {
                   marker.NOM_COURT_ORGNS +
                   "</h3><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -280,7 +278,7 @@ $(document).ready(function() {
                   marker.properties.leisure +
                   "</h3><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -322,7 +320,6 @@ $(document).ready(function() {
           var roundedDistance =
             Math.round(marker.properties.distance * 10) / 10;
         }
-
         //   ADD POPUP
         new mapboxgl.Marker(el)
           .setLngLat(marker.geometry.coordinates)
@@ -332,8 +329,10 @@ $(document).ready(function() {
                 "<h3>" +
                   marker.properties.name +
                   "</h3><p>" +
+                  marker.properties.shop +
+                  "</p><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -386,7 +385,7 @@ $(document).ready(function() {
                   marker.properties.name +
                   "</h3><p>" +
                   roundedDistance +
-                  "</p>"
+                  "km away</p>"
               )
           )
           .addTo(map);
@@ -397,4 +396,23 @@ $(document).ready(function() {
       });
     });
   }
+});
+
+$(".cta").on("click", function() {
+  $(".mapboxgl-ctrl-geocoder--input").select();
+});
+
+$(".cta").on("mouseover", function() {
+  $(".mapboxgl-ctrl-geocoder--input").css({
+    "box-shadow": "0 0 5px #004c8433",
+    "font-color": "#4264fb87"
+  });
+});
+
+$(".results").on("click", function() {
+  $(".appraisal").addClass("pop");
+});
+
+$(".appraisal").on("click", function() {
+  $(".appraisal").removeClass("pop");
 });

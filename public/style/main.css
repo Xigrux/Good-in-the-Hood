@@ -1,21 +1,133 @@
 body {
     width: 100vw;
     overflow: hidden;
+    margin: 0 !important;
+    font-family: Helvetica, sans-serif;
 }
 
 .nav {
+    position: relative;
     height: 10vh;
-    width: 100%;
-    padding: 15px 20%; 
+    widows: 100%;
+    padding: 15px 18%; 
 }
 
-  
+.nav-image {
+    position: relative;
+    display: inline-block;
+    height: 100%;
+    width: 50px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../IMG/png/logo@300x.png)
+}
+
+.nav-motto {    position: relative;
+    display: inline-block;
+    float: right;
+    height: 68%;
+    width: 40%;
+    bottom: -32%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(../IMG/png/motto@300x.png);
+}
+
+.hero {
+    height: 20vh;
+    width: 100%;
+    background-color: #4264fb87;
+    background-position: 30%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../IMG/stock/family.jpeg);
+    background-blend-mode: soft-light;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    color: white;
+    font-size: 155px;
+    line-height: 219px;
+    text-align: center;
+    text-shadow: 1px -4px 4px #004c8499;
+}
+
+.mapboxgl-popup-content {
+    text-transform: capitalize !important;
+}
+
+.searchbar {
+    position: relative;
+    height: 10vh;
+    width: 100%;
+}
+
+.mapboxgl-ctrl-geocoder.mapboxgl-ctrl {
+    width: 80vw;
+    top: 35vh;
+    margin: 10px 20% 0 0 !important;
+    transition: ease 300ms all;
+}
+
+.cta, .results {
+    position: absolute;
+    height: auto;
+    width: auto;
+    padding: 10px 20px;
+    background-color: #4264fb;
+    border-radius: 0 4px 4px 0;
+    color: white;
+    font-size: 18px;
+    margin: 19px 18%;
+    opacity:  1;
+    transition: ease 300ms all;
+}
+
+.cta:hover {
+    cursor: pointer;
+    box-shadow: 0 1px 5px #004c8499;
+    margin: 20px 18%;
+}
+
+.results {
+    position: fixed;
+    bottom: 1vh;
+    left: -15vw;
+}
+.results:hover {
+    cursor: pointer;
+    box-shadow: 0 1px 5px #004c8499;
+    margin: 20px 18%;
+}
+
+.hidden {
+    opacity:  0;
+} 
+   
 #map {
     position: relative;
     top: 0;
     bottom: 0;
     height: 60vh;
     width: 100%;
+}
+
+.appraisal {
+    width: 94%;
+    background-color: white;
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    padding: 10vh 0;
+    bottom: -100vh;
+    margin: 0 3%;
+    box-shadow: 0 0 10px #004c843d;
+    transition: ease-in-out 500ms all;
+}
+
+.appraisal.pop {
+    bottom: 2vh;
 }
 
 .marker {
