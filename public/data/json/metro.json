@@ -1,0 +1,615 @@
+{"features":[
+ {
+   "MetroStation": "acadie",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.523333,
+   "xLong": -73.623333
+ },
+ {
+   "MetroStation": "angrignon",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.446111,
+   "xLong": -73.603611
+ },
+ {
+   "MetroStation": "assomption",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.569167,
+   "xLong": -73.546944
+ },
+ {
+   "MetroStation": "atwater",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.489722,
+   "xLong": -73.586111
+ },
+ {
+   "MetroStation": "beaubien",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.535556,
+   "xLong": -73.604444
+ },
+ {
+   "MetroStation": "beaudry",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.518889,
+   "xLong": -73.555833
+ },
+ {
+   "MetroStation": "berri-uqam",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 1,
+   "yLat": 45.515278,
+   "xLong": -73.561111
+ },
+ {
+   "MetroStation": "bonaventure",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.4994,
+   "xLong": -73.5651
+ },
+ {
+   "MetroStation": "cadillac",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.576944,
+   "xLong": -73.546667
+ },
+ {
+   "MetroStation": "cartier",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.560278,
+   "xLong": -73.681944
+ },
+ {
+   "MetroStation": "champ-de-mars",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.51,
+   "xLong": -73.556389
+ },
+ {
+   "MetroStation": "charlevoix",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.478333,
+   "xLong": -73.569444
+ },
+ {
+   "MetroStation": "cote-des-neiges",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.496667,
+   "xLong": -73.623333
+ },
+ {
+   "MetroStation": "cote-sainte-catherine",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.492222,
+   "xLong": -73.632778
+ },
+ {
+   "MetroStation": "cote-vertu",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.514167,
+   "xLong": -73.683056
+ },
+ {
+   "MetroStation": "cremazie",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.546111,
+   "xLong": -73.638333
+ },
+ {
+   "MetroStation": "iberville",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.553611,
+   "xLong": -73.601944
+ },
+ {
+   "MetroStation": "de-castelnau",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.535278,
+   "xLong": -73.62
+ },
+ {
+   "MetroStation": "de-leglise",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.462778,
+   "xLong": -73.566944
+ },
+ {
+   "MetroStation": "de-la-concorde",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.560833,
+   "xLong": -73.709722
+ },
+ {
+   "MetroStation": "de-la-savane",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.500278,
+   "xLong": -73.661667
+ },
+ {
+   "MetroStation": "du-college",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.508889,
+   "xLong": -73.674167
+ },
+ {
+   "MetroStation": "edouard-montpetit",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.51,
+   "xLong": -73.6125
+ },
+ {
+   "MetroStation": "fabre",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.547778,
+   "xLong": -73.607222
+ },
+ {
+   "MetroStation": "frontenac",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.533333,
+   "xLong": -73.551944
+ },
+ {
+   "MetroStation": "georges-vanier",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.488889,
+   "xLong": -73.576667
+ },
+ {
+   "MetroStation": "guy-concordia",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.495,
+   "xLong": -73.58
+ },
+ {
+   "MetroStation": "henri-bourassa",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.554444,
+   "xLong": -73.668611
+ },
+ {
+   "MetroStation": "honore-beaugrand",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.596667,
+   "xLong": -73.535556
+ },
+ {
+   "MetroStation": "jarry",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.543333,
+   "xLong": -73.628611
+ },
+ {
+   "MetroStation": "jean-drapeau",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 1,
+   "yLat": 45.5125,
+   "xLong": -73.533056
+ },
+ {
+   "MetroStation": "jean-talon",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.538889,
+   "xLong": -73.614167
+ },
+ {
+   "MetroStation": "jolicoeur",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.456667,
+   "xLong": -73.581944
+ },
+ {
+   "MetroStation": "joliette",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.546944,
+   "xLong": -73.551389
+ },
+ {
+   "MetroStation": "langelier",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.582778,
+   "xLong": -73.543056
+ },
+ {
+   "MetroStation": "lasalle",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.470833,
+   "xLong": -73.566389
+ },
+ {
+   "MetroStation": "laurier",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.527222,
+   "xLong": -73.586667
+ },
+ {
+   "MetroStation": "lionel-groulx",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.482778,
+   "xLong": -73.579722
+ },
+ {
+   "MetroStation": "longueuil-universite-de-sherbrooke",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 1,
+   "yLat": 45.525278,
+   "xLong": -73.521944
+ },
+ {
+   "MetroStation": "lucien-lallier",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.495,
+   "xLong": -73.571111
+ },
+ {
+   "MetroStation": "mcgill",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.503889,
+   "xLong": -73.571667
+ },
+ {
+   "MetroStation": "monk",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.451389,
+   "xLong": -73.593056
+ },
+ {
+   "MetroStation": "mont-royal",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.524444,
+   "xLong": -73.581667
+ },
+ {
+   "MetroStation": "montmorency",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.558611,
+   "xLong": -73.721667
+ },
+ {
+   "MetroStation": "namur",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.494722,
+   "xLong": -73.652778
+ },
+ {
+   "MetroStation": "outremont",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.520278,
+   "xLong": -73.615
+ },
+ {
+   "MetroStation": "papineau",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.523611,
+   "xLong": -73.552222
+ },
+ {
+   "MetroStation": "parc",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.5305,
+   "xLong": -73.6237
+ },
+ {
+   "MetroStation": "peel",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.500833,
+   "xLong": -73.574722
+ },
+ {
+   "MetroStation": "pie-ix",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.553889,
+   "xLong": -73.551667
+ },
+ {
+   "MetroStation": "place-darmes",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.506389,
+   "xLong": -73.559722
+ },
+ {
+   "MetroStation": "place-des-arts",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.508056,
+   "xLong": -73.568611
+ },
+ {
+   "MetroStation": "place-saint-henri",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.477222,
+   "xLong": -73.586667
+ },
+ {
+   "MetroStation": "plamondon",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.495556,
+   "xLong": -73.640556
+ },
+ {
+   "MetroStation": "prefontaine",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.541667,
+   "xLong": -73.554444
+ },
+ {
+   "MetroStation": "radisson",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.588889,
+   "xLong": -73.539444
+ },
+ {
+   "MetroStation": "rosemont",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.531111,
+   "xLong": -73.5975
+ },
+ {
+   "MetroStation": "saint-laurent",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.510833,
+   "xLong": -73.564722
+ },
+ {
+   "MetroStation": "saint-michel",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.559722,
+   "xLong": -73.6
+ },
+ {
+   "MetroStation": "sauve",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.550833,
+   "xLong": -73.656111
+ },
+ {
+   "MetroStation": "sherbrooke",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.518889,
+   "xLong": -73.568889
+ },
+ {
+   "MetroStation": "snowdon",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.485556,
+   "xLong": -73.628056
+ },
+ {
+   "MetroStation": "square-victoria-oaci",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.501944,
+   "xLong": -73.563056
+ },
+ {
+   "MetroStation": "universite-de-montreal",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 1,
+   "SubLine_Yell": 0,
+   "yLat": 45.503333,
+   "xLong": -73.6175
+ },
+ {
+   "MetroStation": "vendome",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.473889,
+   "xLong": -73.603889
+ },
+ {
+   "MetroStation": "verdun",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.459444,
+   "xLong": -73.571667
+ },
+ {
+   "MetroStation": "viau",
+   "SubLine_Green": 1,
+   "SubLine_Orng": 0,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.561111,
+   "xLong": -73.547222
+ },
+ {
+   "MetroStation": "villa-maria",
+   "SubLine_Green": 0,
+   "SubLine_Orng": 1,
+   "SubLine_Blue": 0,
+   "SubLine_Yell": 0,
+   "yLat": 45.479444,
+   "xLong": -73.619722
+ }
+]
+}
